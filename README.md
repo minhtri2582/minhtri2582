@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @minhtri2582
-- 👀 I’m interested in working
-- 🌱 I’m currently learning Cloud and DevOps
-- 📫 How to reach me skype: doleminhtri
+- 👋 Hi, I’m Tri Do
+- 👀 I’m interested in working and learning
+- 🌱 I’m currently working as Cloud Engineer and DevOps Engineer
+- 📫 How to reach me https://tridlm.website
 
 <!---
 minhtri2582/minhtri2582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
