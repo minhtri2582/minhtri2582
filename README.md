@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Tri Do
-- 👀 I’m interested in working and learning
-- 🌱 I’m currently working as Cloud Engineer and DevOps Engineer
-- 📫 How to reach me https://tridlm.website
+- Học Hàm - Học Vị: Thạc sĩ
+- Lĩnh Vực: Hệ thống Thông tin
+- Đơn Vị: Khoa Công nghệ Thông tin
+- Email: nghia.nguyentrong@stu.edu.vn
 
-<!---
-minhtri2582/minhtri2582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Kinh Nghiệm
+Giảng Dạy
+Đại cương    
+Cấu trúc máy tính    
+Ứng dụng Web
+> Thực Tế
+Quản trị hệ thống Website giáo dục    
+Hỗ trợ điều hành Trung Tâm Máy Tính
+ 
+> Quá Trình Đào Tạo
+- Kỹ sư Tin Học.   
+- Thạc sĩ Hệ Thống Thông Tin.
